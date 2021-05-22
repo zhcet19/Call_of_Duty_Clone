@@ -39,14 +39,6 @@ This project is built to depict Call of Duty. It consisits of multiple levels of
 
 
 
-
-7)Payment page
-![alt text](https://github.com/zhcet19/Nadeem-Tarin-Hall-Canteen-Management-System/blob/master/image%20folder/project8.png)
-
-
-
-
-
 ## Technologies
 * SCRIPTING LANGUAGE:-C#
 * DEVELOPMENT TOOL- Unity Game Engine
